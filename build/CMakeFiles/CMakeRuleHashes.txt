@@ -1,0 +1,14 @@
+# Hashes of file build rules.
+3fdd262e497d1bab4ed5248f7f2399ab ProjectFiles/blinkytask/CMakeFiles/ELF2UF2Build
+cb7a707dd5a3182b76776b542210ad98 ProjectFiles/blinkytask/CMakeFiles/ELF2UF2Build-complete
+2f996dde16ac143a455b9fe890799c16 ProjectFiles/blinkytask/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-build
+a7091d504e3d2d884c88e07d0d8ce239 ProjectFiles/blinkytask/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-configure
+8f96b3d40266ade64418f13e0fef9ba8 ProjectFiles/blinkytask/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-download
+91fdb5d77fb06efb7075e89adef8f22b ProjectFiles/blinkytask/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-install
+436f249e07cf6a61796fc09d641317ed ProjectFiles/blinkytask/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-mkdir
+1a1fb3bcc1f5f754d071299230ce2e8e ProjectFiles/blinkytask/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-patch
+bcefa6d45590d6c395d75cd9de14387f ProjectFiles/blinkytask/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-update
+5f0d94a363f88849879ec0044295bdaf pico-sdk/src/rp2_common/boot_stage2/CMakeFiles/bs2_default_bin
+5f0d94a363f88849879ec0044295bdaf pico-sdk/src/rp2_common/boot_stage2/CMakeFiles/bs2_default_padded_checksummed_asm
+f508ae7646dc1bda83f8105db4f1bbbf pico-sdk/src/rp2_common/boot_stage2/bs2_default.bin
+951c46cfced952a4a785b0acd5c73f53 pico-sdk/src/rp2_common/boot_stage2/bs2_default_padded_checksummed.S
